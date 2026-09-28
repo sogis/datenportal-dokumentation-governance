@@ -1,0 +1,10 @@
+= Governance
+:lang: de
+:doctype: book
+:author: Amt für Geoinformation Kanton Solothurn
+:toc:
+:toclevels: 2
+
+include::ueberblick.adoc[]
+include::rollen-und-zustaendigkeiten.adoc[]
+include::ablaeufe-und-entscheidungen.adoc[]
